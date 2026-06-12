@@ -7,8 +7,8 @@
 Developer • Designer • Open Source Enthusiast
 </h3>
 
-# 💫 About Me:
-$ cat about_me.txt<br><br>Name: Rima<br>Role: Developer & Designer<br><br>Current Status:<br>Building things that didn't exist yesterday.<br><br>Interests:<br>> Web Development<br>> UI/UX Design<br>> AI Exploration<br>> Open Source<br><br>Fun Fact:<br>My project list grows faster<br>than I can finish it.
+# $ cat about_me.txt:
+Name: Rima<br>Role: Developer & Designer<br><br>Current Status:<br>Building things that didn't exist yesterday.<br><br>Interests:<br>> Web Development<br>> UI/UX Design<br>> AI Exploration<br>> Open Source<br><br>Fun Fact:<br>My project list grows faster<br>than I can finish it.
 
 
 # 💻 Tech Stack:
@@ -23,12 +23,10 @@ $ cat about_me.txt<br><br>Name: Rima<br>Role: Developer & Designer<br><br>Curren
 
 # GSSoC'26 Contributor
 <h2 align="center">Leaderboard Score: 4,784 (Top 1%)</h2>
-<h2 align="center">Rank: #391</h2>
+<h3 align="center">Rank: #391</h3>
 <h3 align="center">ranked among 43,586 participants</h3>
 <h4 align="center">Badges</h4>
-<img width="1080" height="1080" alt="gssoc-badge-building_momentum" src="https://github.com/user-attachments/assets/d5b409ef-eb51-45a6-9eac-df1b867c4c51" />
-<img width="1080" height="1080" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/4313da7e-bdad-4918-9fe6-b9626e70c060" />
-<img width="1080" height="1080" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/85c34a60-46e8-41ac-b467-f79465512a66" />
+<img width="200" height="200" alt="gssoc-badge-building_momentum" src="https://github.com/user-attachments/assets/d5b409ef-eb51-45a6-9eac-df1b867c4c51" /><img width="200" height="200" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/4313da7e-bdad-4918-9fe6-b9626e70c060" /><img width="200" height="200" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/85c34a60-46e8-41ac-b467-f79465512a66" />
 
 
 ---
