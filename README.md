@@ -18,14 +18,10 @@ Name: Rima<br>Role: Developer & Designer<br><br>Current Status:<br>Building thin
 ![](https://streak-stats.demolab.com/?user=rima48-bit&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rima48-bit&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 # GSSoC'26 Contributor
 <h2 align="center">Leaderboard Score: 4,784 (Top 1%)</h2>
 <h3 align="center">Rank: #391</h3>
 <h3 align="center">ranked among 43,586 participants</h3>
-<h4 align="center">Badges</h4>
 <img width="200" height="200" alt="gssoc-badge-building_momentum" src="https://github.com/user-attachments/assets/d5b409ef-eb51-45a6-9eac-df1b867c4c51" /><img width="200" height="200" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/4313da7e-bdad-4918-9fe6-b9626e70c060" /><img width="200" height="200" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/85c34a60-46e8-41ac-b467-f79465512a66" />
 
 
