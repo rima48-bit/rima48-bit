@@ -7,8 +7,8 @@
 Developer • Designer • Open Source Enthusiast
 </h3>
 
-# $ cat about_me.txt:
-Name: Rima<br>Role: Developer & Designer<br><br>Current Status:<br>Building things that didn't exist yesterday.<br><br>Interests:<br>> Web Development<br>> UI/UX Design<br>> AI Exploration<br>> Open Source<br><br>Fun Fact:<br>My project list grows faster<br>than I can finish it.
+## $ cat about_me.txt:
+#Name: Rima<br>#Role: Developer & Designer<br><br>#Current Status:<br>Building things that didn't exist yesterday.<br><br>#Interests:<br>> Web Development<br>> UI/UX Design<br>> AI Exploration<br>> Open Source<br><br>#Fun Fact:<br>My project list grows faster<br>than I can finish it.
 
 
 # 💻 Tech Stack:
