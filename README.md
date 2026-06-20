@@ -35,7 +35,7 @@ Developer • Designer • Open Source Enthusiast
 <h2 align="center">Leaderboard Score: 6,496 (Top 1%)</h2>
 <h3 align="center">Rank: #359</h3>
 <h3 align="center">ranked among 43,586 participants</h3>
-<img width="200" height="200" alt="gssoc-badge-building_momentum" src="https://github.com/user-attachments/assets/d5b409ef-eb51-45a6-9eac-df1b867c4c51" /><img width="200" height="200" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/4313da7e-bdad-4918-9fe6-b9626e70c060" /><img width="200" height="200" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/85c34a60-46e8-41ac-b467-f79465512a66" /><img width="1080" height="1080" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/c0d0e96e-b164-4fe9-8882-ce85d5a05339" />
+<img width="200" height="200" alt="gssoc-badge-building_momentum" src="https://github.com/user-attachments/assets/d5b409ef-eb51-45a6-9eac-df1b867c4c51" /><img width="200" height="200" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/4313da7e-bdad-4918-9fe6-b9626e70c060" /><img width="200" height="200" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/85c34a60-46e8-41ac-b467-f79465512a66" /><img width="200" height="200" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/c0d0e96e-b164-4fe9-8882-ce85d5a05339" />
 
 
 
