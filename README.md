@@ -42,3 +42,4 @@ Developer • Designer • Open Source Enthusiast
 ---
 [![](https://komarev.com/ghpvc/?username=rima48-bit&icon=5&color=10)](https://visitcount.itsvg.in)
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
