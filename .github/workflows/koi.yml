@@ -1,0 +1,40 @@
+
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+
+      - name: git-profile-koi
+        uses: yalongwastaken/git-koi@v1.0.1
+        with:
+          # Your GitHub username
+          login: rima48-bit
+
+          # Koi body color
+          body: gold
+
+          # Output folder
+          output-dir: koi
+
+          # GitHub token
+          token: ${{ github.token }}
